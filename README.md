@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @seller0.
+- 👀 I’m interested in OS.
+- 🌱 I’m currently learning linux.
+- 💞️ I’m looking to collaborate on email.
